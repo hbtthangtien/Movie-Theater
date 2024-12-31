@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\entity\\movietheatercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\entity\\movietheatercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\services\\impl\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\services\\impl\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\services\\impl\\vnpayserviceimlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\services\\impl\\vnpayserviceimlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\services\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\services\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\repository\\impl\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\repository\\impl\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\repository\\impl\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\repository\\impl\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\repository\\impl\\typerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\repository\\impl\\typerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|e:\\documents\\c#\\project\\be\\movie-theater\\movietheater\\presentation\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{585D7378-7DBA-4C31-845B-87BA11F30DD0}|Presentation\\WebAPI.csproj|solutionrelative:presentation\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountServiceImpl.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Services\\Impl\\AccountServiceImpl.cs",
+              "RelativeDocumentMoniker": "Presentation\\Services\\Impl\\AccountServiceImpl.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Services\\Impl\\AccountServiceImpl.cs",
+              "RelativeToolTip": "Presentation\\Services\\Impl\\AccountServiceImpl.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:52:36.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VnpayServiceImlp.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Services\\Impl\\VnpayServiceImlp.cs",
+              "RelativeDocumentMoniker": "Presentation\\Services\\Impl\\VnpayServiceImlp.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Services\\Impl\\VnpayServiceImlp.cs",
+              "RelativeToolTip": "Presentation\\Services\\Impl\\VnpayServiceImlp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:52:22.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T13:43:53.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Presentation.http",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Presentation.http",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.http",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Presentation.http",
+              "RelativeToolTip": "Presentation\\Presentation.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-21T06:56:14.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Helpers\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "Presentation\\Helpers\\ApplicationMapper.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Helpers\\ApplicationMapper.cs",
+              "RelativeToolTip": "Presentation\\Helpers\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:35:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericServices.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Services\\GenericServices.cs",
+              "RelativeDocumentMoniker": "Presentation\\Services\\GenericServices.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Services\\GenericServices.cs",
+              "RelativeToolTip": "Presentation\\Services\\GenericServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:33:33.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\Impl\\GenericRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Presentation\\Repository\\Impl\\GenericRepositoryImpl.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\Impl\\GenericRepositoryImpl.cs",
+              "RelativeToolTip": "Presentation\\Repository\\Impl\\GenericRepositoryImpl.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:44:51.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:57:20.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\Impl\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Presentation\\Repository\\Impl\\UnitOfWork.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\Impl\\UnitOfWork.cs",
+              "RelativeToolTip": "Presentation\\Repository\\Impl\\UnitOfWork.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:57:07.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Entity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Presentation\\Entity\\ApplicationUser.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Entity\\ApplicationUser.cs",
+              "RelativeToolTip": "Presentation\\Entity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:54:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieTheaterContext.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Entity\\MovieTheaterContext.cs",
+              "RelativeDocumentMoniker": "Presentation\\Entity\\MovieTheaterContext.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Entity\\MovieTheaterContext.cs",
+              "RelativeToolTip": "Presentation\\Entity\\MovieTheaterContext.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAA4CAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:54:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeRepositoryImpl.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\Impl\\TypeRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Presentation\\Repository\\Impl\\TypeRepositoryImpl.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\Impl\\TypeRepositoryImpl.cs",
+              "RelativeToolTip": "Presentation\\Repository\\Impl\\TypeRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:44:37.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:58:44.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Presentation\\Repository\\IGenericRepository.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Presentation\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:12:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Presentation\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Presentation\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:12:36.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\libman.json",
+              "RelativeDocumentMoniker": "Presentation\\libman.json",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\libman.json",
+              "RelativeToolTip": "Presentation\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T15:11:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "Presentation\\WebAPI.csproj",
+              "ToolTip": "E:\\Documents\\C#\\Project\\BE\\movie-theater\\MovieTheater\\Presentation\\WebAPI.csproj",
+              "RelativeToolTip": "Presentation\\WebAPI.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T15:09:10.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
